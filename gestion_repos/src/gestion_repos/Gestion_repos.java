@@ -21,6 +21,10 @@ public class Gestion_repos {
             System.out.println("i " + i);
         }
         
+        for(int j = 0; j < 10; j++){
+            System.out.println(" Error ");
+        }
+        
     }
     
 }
