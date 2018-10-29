@@ -21,6 +21,7 @@ public class Gestion_repos {
             System.out.println("i " + i);
         }
         
+        // modificacion que va ha generar un error
+        System.out.println("salida de error");
     }
-    
 }
